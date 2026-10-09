@@ -1,0 +1,16 @@
+<resources>
+    <style name="Theme.PanaBoost" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#9965FF</item>
+        <item name="colorPrimaryVariant">#6533CB</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#53E6BF</item>
+        <item name="colorOnSecondary">#08111D</item>
+        <item name="colorSurface">#18172A</item>
+        <item name="colorOnSurface">#F7F4FF</item>
+        <item name="android:colorBackground">#090B14</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">#0E101D</item>
+        <item name="android:statusBarColor">#090B14</item>
+        <item name="android:fontFamily">sans</item>
+    </style>
+</resources>
